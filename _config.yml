@@ -1,7 +1,7 @@
 name: Earth Tours
 favicon: null
-layout_spectrum: 0.10109160514548421
-typography_spectrum: 0.3110680643003434
+layout_spectrum: 0.99466
+typography_spectrum: 0.50082
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.13125176494941115
-  lightness: 0.2506959300953895
-  saturation: 0.8336655586026609
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.75
   rhythmicContrast: 0.6110817466396838
 purpose: []
