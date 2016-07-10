@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Earth Tours]]></title>
         <description><![CDATA[Earth Tours]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/earth-tours/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 21:58:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jul 2016 14:16:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/earth-tours/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2132224f-9da8-4ab1-a783-f5c90ae1e63b.jpg">]]></description>
+            <link>https://thegrid.ai/earth-tours/the-best-new-start-ups-around/index.html</link>
+            <guid isPermaLink="false">cf9496d8-a798-49fd-abf1-1a2f2c27287c</guid>
+            <pubDate>Sun, 10 Jul 2016 14:15:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Garden Route Exploration]]></title>
             <description><![CDATA[<article><h1>Garden Route Exploration</h1><h2>             Experience nature at its best. </h2><p>Bunjee Jumping in the Bloukran Bridge </p></article>]]></description>
-            <link>undefinedgarden-route-exploration/index.html</link>
+            <link>https://thegrid.ai/earth-tours/garden-route-exploration/index.html</link>
             <guid isPermaLink="false">06dcca1d-ad97-4fae-a27a-ef7b36a884a9</guid>
             <pubDate>Thu, 04 Feb 2016 21:58:46 GMT</pubDate>
         </item>
